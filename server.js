@@ -105,4 +105,7 @@ app.get('/', async (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
 });
+<<<<<<< HEAD
 ``
+=======
+>>>>>>> 7f4b99cdb00e70eb34d0787c54599e8fed0631cc
